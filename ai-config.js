@@ -15,4 +15,4 @@
  */
 
 // Only for development - do not use in production
-window.GOOGLE_AI_API_KEY = 'YOUR_GOOGLE_AI_API_KEY_HERE';
+window.GOOGLE_AI_API_KEY = 'AIzaSyCnWFUTa9qZ3FJgM5tQF3LJUrJ6NW8bAaI';
